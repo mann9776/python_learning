@@ -1,0 +1,13 @@
+2024-02-26 00:45:40,576 : INFO : test_editProfile : Rahul
+2024-02-26 00:45:40,576 : INFO : test_editProfile : rahulshettyacademy.com
+2024-02-26 00:47:17,720 : INFO : test_editProfile : Rahul
+2024-02-26 00:47:17,720 : INFO : test_editProfile : rahulshettyacademy.com
+2024-02-26 00:47:17,733 : DEBUG : pytestDemo.test_logging : A debug statement is executed
+2024-02-26 00:47:17,733 : INFO : pytestDemo.test_logging : Information statement
+2024-02-26 00:47:17,733 : WARNING : pytestDemo.test_logging : Something is in warning
+2024-02-26 00:47:17,734 : ERROR : pytestDemo.test_logging : An error has occurred
+2024-02-26 00:47:17,734 : CRITICAL : pytestDemo.test_logging : Critical issue
+2024-04-08 19:18:42,287 : INFO : test_editProfile : Rahul
+2024-04-08 19:18:42,287 : INFO : test_editProfile : rahulshettyacademy.com
+2024-08-06 11:54:32,577 : INFO : test_editProfile : Rahul
+2024-08-06 11:54:32,578 : INFO : test_editProfile : rahulshettyacademy.com

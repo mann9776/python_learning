@@ -1,0 +1,9 @@
+part1 - Pytest Unit Testing Framework
+
+part2 - Understand Logging and HTML Reports
+
+part3 - Implement Selenium Python Framework from Scratch (PageObject DesignPattern)
+
+part4 - Data Driven Framework with Excel to Selenium Python Tests
+
+part5 - GIT Version Control
